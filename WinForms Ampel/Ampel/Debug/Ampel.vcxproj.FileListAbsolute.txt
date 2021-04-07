@@ -1,0 +1,3 @@
+C:\Users\maxi-\source\repos\Ampel\Ampel\Debug\Ampel.vcxprojAssemblyReference.cache
+C:\Users\maxi-\source\repos\Ampel\Ampel\Debug\Ampel.Form1.resources
+C:\Users\maxi-\source\repos\Ampel\Ampel\Debug\Ampel.vcxproj.GenerateResource.cache
